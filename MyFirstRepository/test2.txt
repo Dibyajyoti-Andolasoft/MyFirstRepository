@@ -1,2 +1,3 @@
-This is created for check the push operation.
+i want to merge this file into master repository.
+
 
